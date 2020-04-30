@@ -17,4 +17,4 @@ This is a simple web project , deployement can be on any web server or even loca
 
 ##Copyright
 
-Git . 20202
+Git . 2020 . All rights reserved.
